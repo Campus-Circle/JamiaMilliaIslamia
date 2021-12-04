@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Computer Science Engineering(CSE)",
+        "url": "cse",
+        "link": "CSE.json"
+    },
+    {
+        "name": "Electronics and Communication Engineering(ECE)",
+        "url": "ece",
+        "link": "ECE.json"
+    },
+    {
+        "name": "Electrical Engineering(EE)",
+        "url": "ee",
+        "link": "EE.json"
+    },
+    {
+        "name": "Mechanical Engineering(ME)",
+        "url": "mech",
+        "link": "MECH.json"
+    },
+    {
+        "name": "Civil Engineering(CIVIL)",
+        "url": "civil",
+        "link": "CIVIL.json"
+    }
+]
