@@ -1,0 +1,30 @@
+[
+    {
+        "Course":  "ECE",
+        "Semester" : 5,
+        "Paper Code" : "ECS-501",
+        "title" : "2022 Sessional-I",
+        "fileName" : "(ECS501)Sessional1-2022"
+    },
+    {
+        "Course" : "ECE",
+        "Semester": 5,
+        "Paper Code": "ECS-502",
+        "title" : "CA Sessional 1 2022",
+        "fileName": "CA Sessional 1 2022"
+    },
+    {
+        "Course": "ECE",
+        "Semester": 5,
+        "Paper Code": "ECS-503",
+        "title": "CA Sessional 1 2022",
+        "fileName": "CS Sessional 1 2022"
+    },
+    {
+        "Course": "ECE",
+        "Semester": 5,
+        "Paper Code": "ECS-504",
+        "title": "DCS Sessional 1 2022",
+        "fileName": "DCS Sessional 1 2022"
+    }
+]
