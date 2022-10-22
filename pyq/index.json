@@ -26,5 +26,40 @@
         "Paper Code": "ECS-504",
         "title": "DCS Sessional 1 2022",
         "fileName": "DCS Sessional 1 2022"
+    },
+    {
+        "Course": "EE",
+        "Semester": 5,
+        "Paper Code": "EE-503",
+        "title": "Communication Systems",
+        "fileName":"CommunicationSystem"
+    },
+    {
+        "Course": "EE",
+        "Semester": 5,
+        "Paper Code": "EE-504",
+        "title": "Electrical Measurements",
+        "fileName": "ElectricalMeasurements"
+    },
+    {
+        "Course": "EE",
+        "Semester": 5,
+        "Paper Code": "EE-502",
+        "title": "Power Electronics",
+        "fileName": "PowerElectronics"
+    },
+    {
+        "Course": "EE",
+        "Semester": 5,
+        "Paper Code": "EE-505",
+        "title": "Power System",
+        "fileName": "PowerSystem"
+    },
+    {
+        "Course": "EE",
+        "Semester": 6,
+        "Paper Code": "EE-601",
+        "title": "Control System",
+        "fileName": "ControlSystem"
     }
 ]
