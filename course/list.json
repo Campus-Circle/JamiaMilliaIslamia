@@ -243,9 +243,8 @@
             "Type": "Theory"
         },
         {
-            "Link": true,
             "Paper Code": "CEN-504",
-            "Paper Name": "Data Base System",
+            "Paper Name": "OOPS - Object oriented programming",
             "End Term Marks": 60,
             "Mid Term Marks": 40,
             "Total Marks": 100,
@@ -344,7 +343,7 @@
         {
             "Link": true,
             "Paper Code": "CEN-603",
-            "Paper Name": "Object oriented programming",
+            "Paper Name": "OOPS - Object oriented programming",
             "End Term Marks": 60,
             "Mid Term Marks": 40,
             "Total Marks": 100,
