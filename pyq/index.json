@@ -65,21 +65,21 @@
     {
         "Course": "CSE",
         "Semester": 5,
-        "Paper Code": "CS-502",
+        "Paper Code": "CEN-502",
         "title": "Automata Theory Sessional 1 2021",
         "fileName": "Auto 2nd Sess 21"
     },
     {
         "Course": "CSE",
         "Semester": 5,
-        "Paper Code": "CS-504",
+        "Paper Code": "CEN-504",
         "title": "OOPS Sessional II 2021",
         "fileName": "CEN-504 OOPS_Sessional_II_2021"
     },
     {
         "Course": "CSE",
         "Semester": 5,
-        "Paper Code": "CS-505",
+        "Paper Code": "CEN-505",
         "title": "Microprocessor Sessional II 2021",
         "fileName": "Second Minor Examination btech microprocessor2021"
     }
